@@ -1,8 +1,15 @@
-<!-- Banner -->
-![banner](https://github.com/mdshajie720/mdshajie720/blob/main/DATA%20ENGINEER.png)
+<!-- Animated Intro -->
+<p align="center">
+  <svg viewBox="0 0 1000 60">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+      style="font-size:28px; fill:white; font-family:Verdana; animation: slidein 5s infinite alternate;">
+      Hi 👋, I'm Mohammed Shajie
+    </text>
+  </svg>
+</p>
 
-<h1 align="center">Hi 👋, I'm Mohammed Shajie</h1>
 <h3 align="center">🛠️ Data Engineer | 🧠 Agentic AI Explorer | 📈 Automation Enthusiast</h3>
+
 
 <!-- Right side animation -->
 <img align="right" alt="coding" width="400" src="https://github.com/mdshajie720/mdshajie720/blob/main/animation.gif" />
