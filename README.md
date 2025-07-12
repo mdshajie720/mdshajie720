@@ -1,14 +1,13 @@
-<!-- Animated Intro -->
+<!-- 🖼️ Banner -->
+![banner](https://github.com/mdshajie720/mdshajie720/blob/main/DATA%20ENGINEER.png)
+
+<!-- 👋 Animated Intro Text using SVG image -->
 <p align="center">
-  <svg viewBox="0 0 1000 60">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-      style="font-size:28px; fill:white; font-family:Verdana; animation: slidein 5s infinite alternate;">
-      Hi 👋, I'm Mohammed Shajie
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammed+Shajie;Data+Engineer+%7C+Agentic+AI+Explorer+%7C+Automation+Lover" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🛠️ Data Engineer | 🧠 Agentic AI Explorer | 📈 Automation Enthusiast</h3>
+<!-- 💼 Tagline Below -->
+<h3 align="center"><strong>🛠️ Data Engineer | 🧠 Agentic AI Explorer | 📈 Automation Enthusiast</strong></h3>
 
 
 <!-- Right side animation -->
