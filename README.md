@@ -21,7 +21,7 @@
 <!-- About Section -->
 <p align="left">
 
-🎓 Completed <b>B.E in CSE from ISL Engineering College</b> | CGPA: <b>8.3</b>  
+🎓 Completed <b>B.E in CSE from ISL Engineering College</b> | CGPA: <b>8.4</b>  
 📌 Data Engineer passionate about building robust data infrastructure & scalable systems  
 🤖 Currently learning <b>Agentic AI Models</b>, <b>AI tools</b>, and <b>Prompt Engineering</b>  
 📊 Hands-on with <b>Data Analytics</b>, <b>GenAI</b>, <b>RAG</b>, and <b>AI Automation</b>  
